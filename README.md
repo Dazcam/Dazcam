@@ -1,8 +1,8 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=dazcam&show_icons=true&rank_icon=github&bg_color=white&title_color=434d58" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=dazcam&show_icons=true&rank_icon=github&theme=highcontrast" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dazcam&layout=donut&langs_count=8&card_width=320&title_color=434d58" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dazcam&layout=donut&langs_count=8&card_width=320&title_color=434d58&hide=html&hide_progress=true&theme=highcontrast" />
 </a>
 
 <p></p>
