@@ -13,6 +13,6 @@
 <p></p>
 
 - 👋 I’m a senior postdoc at Cardiff University
-- 👀 I’m interested in computational genomics and neuropsychiatric disorders
+- 👀 I’m interested in computational biology, genomics and neuropsychiatric disorders
 
 
