@@ -9,33 +9,16 @@
 + Scalable computational genomics pipelines
 + Interactive scientific data visualisation
 
-**Languages**:
-![Python](https://img.shields.io/badge/-Python-F9DC3E.svg?logo=python&style=flat)
-![R](https://img.shields.io/badge/-R-276DC3.svg?logo=r&style=flat)
-![Bash](https://img.shields.io/badge/-Bash-4EAA25.svg?logoColor=white&logo=gnu-bash&style=flat)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E.svg?logo=javascript&logoColor=black&style=flat)
-![HTML/CSS](https://img.shields.io/badge/-HTML%2FCSS-E34F26.svg?logo=html5&logoColor=white&style=flat)
-![SQL](https://img.shields.io/badge/-SQL-4479A1.svg?logo=sqlite&logoColor=white&style=flat)
+---
 
-**Workflow & infrastructure**:
-![Snakemake](https://img.shields.io/badge/-Snakemake-2E9984.svg?style=flat)
-![SLURM](https://img.shields.io/badge/-SLURM-0072C6.svg?style=flat)
-![Singularity](https://img.shields.io/badge/-Singularity-1E4383.svg?style=flat)
-![Docker](https://img.shields.io/badge/-Docker-2496ED.svg?logo=docker&logoColor=white&style=flat)
-![Linux](https://img.shields.io/badge/-Linux-FCC624.svg?logo=linux&logoColor=black&style=flat)
-![Nextflow](https://img.shields.io/badge/-Nextflow-23AA62.svg?style=flat)
-![Conda](https://img.shields.io/badge/-Conda-44A833.svg?logo=anaconda&logoColor=white&style=flat)
+| Category | Tools & Languages |
+| :--- | :--- |
+| **Languages** | ![Python](https://img.shields.io/badge/-Python-F9DC3E.svg?logo=python&style=flat) ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white) ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![HTML/CSS](https://img.shields.io/badge/-HTML%2FCSS-E34F26.svg?logo=html5&logoColor=white&style=flat) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=sqlite&logoColor=white) |
+| **Workflow** | ![Snakemake](https://img.shields.io/badge/Snakemake-2E9984?style=flat&logo=python&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Singularity](https://img.shields.io/badge/Singularity-1E4383?style=flat) ![SLURM](https://img.shields.io/badge/SLURM-0072C6?style=flat) ![Conda](https://img.shields.io/badge/-Conda-44A833.svg?logo=anaconda&logoColor=white&style=flat) ![Nextflow](https://img.shields.io/badge/Nextflow-23AA62?style=flat&logo=nextflow&logoColor=white)  |
+| **Bioinformatics and visualisation** | ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626.svg?logo=jupyter&logoColor=white&style=flat) ![Bioconductor](https://img.shields.io/badge/Bioconductor-009E73?style=flat) ![Quarto](https://img.shields.io/badge/Quarto-475287?style=flat&logo=quarto&logoColor=white) ![RMarkdown](https://img.shields.io/badge/R_Markdown-276DC3?style=flat&logo=r&logoColor=white) ![Shiny](https://img.shields.io/badge/Shiny-4472C4?style=flat&logo=shiny&logoColor=white) |
+| **DevOps** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF.svg?logo=github-actions&logoColor=white&style=flat) ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white) |
 
-**Tools**:
-![Git](https://img.shields.io/badge/-Git-F05032.svg?logo=git&logoColor=white&style=flat)
-![GitHub](https://img.shields.io/badge/-GitHub-181717.svg?logo=github&style=flat)
-![Jupyter](https://img.shields.io/badge/-Jupyter-F37626.svg?logo=jupyter&logoColor=white&style=flat)
-![VSCode](https://img.shields.io/badge/-VSCode-007ACC.svg?logo=visual-studio-code&style=flat)
-![Quarto](https://img.shields.io/badge/-Quarto-4A90D9.svg?logo=quarto&style=flat)
-![Shiny](https://img.shields.io/badge/-Shiny-276DC3.svg?logo=rstudio&logoColor=white&style=flat)
-![RMarkdown](https://img.shields.io/badge/-R%20Markdown-75AADB.svg?logo=r&logoColor=white&style=flat)
-![Bioconductor](https://img.shields.io/badge/-Bioconductor-009E73.svg?style=flat)
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF.svg?logo=github-actions&logoColor=white&style=flat)
+---
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=dazcam&show_icons=true&rank_icon=github&theme=highcontrast" />
