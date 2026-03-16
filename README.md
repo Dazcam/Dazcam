@@ -1,11 +1,14 @@
-## Senior Bioinformatician and Research Software Engineer at **Cardiff University** (DPMCN)
+## Senior Bioinformatician | Research Software Engineer 
+
+> Computational genomics and research software engineering for large-scale human brain transcriptomics  
+> Cardiff University (DPMCN) | Division of Psychological Medicine & Clinical Neurosciences  
+> [![ORCID](https://img.shields.io/badge/ORCID-0000--0003--0612--2300-A6CE39.svg?logo=orcid&style=flat)](https://orcid.org/0000-0001-7520-7741) 
 
 + Single-cell genomics
 + Statistical genetics
 + Neuropsychiatric disease
-+ End-to-end computational pipelines
-+ Interactive data visualisation
-+ [![ORCID](https://img.shields.io/badge/ORCID-0000--0003--0612--2300-A6CE39.svg?logo=orcid&style=flat)](https://orcid.org/0000-0001-7520-7741) 
++ Scalable computational genomics pipelines
++ Interactive scientific data visualisation
 
 **Languages**:
 ![Python](https://img.shields.io/badge/-Python-F9DC3E.svg?logo=python&style=flat)
@@ -35,7 +38,6 @@
 ![Bioconductor](https://img.shields.io/badge/-Bioconductor-009E73.svg?style=flat)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF.svg?logo=github-actions&logoColor=white&style=flat)
 
-
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=dazcam&show_icons=true&rank_icon=github&theme=highcontrast" />
 </a>
@@ -45,9 +47,8 @@
 
 ## Current Major Project
 
-**[sc-eQTL Atlas · Developing Human Brain](https://github.com/Dazcam/eQTL_study_2025)** 
+**[sc-eQTL Atlas · Developing Human Brain](https://github.com/Dazcam/eQTL_study_2025)**  
 + [Preprint](https://www.researchsquare.com/article/rs-9011993/v1)
   
-The first cell-type-resolved eQTL atlas of the prenatal human cerebral cortex. snRNA-seq + genome-wide genotyping on 134 fetal cortex samples. An end-to-end computational genomics platform that processess ~3 TB of raw single-nucleus RNA sequencing and genome-wide genotyping data.  
-
+The first cell-type-resolved eQTL atlas of the prenatal human cerebral cortex. snRNA-seq and genome-wide genotyping from 134 fetal cortex samples, analysed using an end-to-end computational genomics platform processing ~3 TB of sequencing and genotype data.
 
