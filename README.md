@@ -48,6 +48,6 @@
 **[sc-eQTL Atlas · Developing Human Brain](https://github.com/Dazcam/eQTL_study_2025)** 
 + [Preprint](https://www.researchsquare.com/article/rs-9011993/v1)
   
-The first cell-type-resolved eQTL atlas of the prenatal human cerebral cortex. snRNA-seq + genome-wide genotyping on 134 fetal cortex samples. An end-to-end computational genomics platform that processed ~3 TB of raw single-nucleus RNA sequencing and genome-wide genotyping data.  
+The first cell-type-resolved eQTL atlas of the prenatal human cerebral cortex. snRNA-seq + genome-wide genotyping on 134 fetal cortex samples. An end-to-end computational genomics platform that processess ~3 TB of raw single-nucleus RNA sequencing and genome-wide genotyping data.  
 
 
