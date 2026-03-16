@@ -4,9 +4,8 @@
 > Cardiff University (DPMCN) | Division of Psychological Medicine & Clinical Neurosciences  
 > [![ORCID](https://img.shields.io/badge/ORCID-0000--0003--0612--2300-A6CE39.svg?logo=orcid&style=flat)](https://orcid.org/0000-0001-7520-7741) 
 
-+ Single-cell genomics
++ Single-cell & neuropsychiatric genomics
 + Statistical genetics
-+ Neuropsychiatric disease
 + Scalable computational genomics pipelines
 + Interactive scientific data visualisation
 
